@@ -7,6 +7,7 @@
 [Twitter](https://twitter.com/alien4cloud) |
 [Release notes](http://alien4cloud.github.io/#/release_notes/index.html)
 
+TEST
 
 ALIEN 4 Cloud stands for Application LIfecycle ENablement for Cloud.
 
